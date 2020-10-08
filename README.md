@@ -1,5 +1,5 @@
 # About Me
-I am software engineer from frontend to backend.
+I am software engineer.
 
 My portfolio: https://9revolution9.com
 
